@@ -9,7 +9,7 @@ import { Item } from "./item";
 export class Contents extends MyDisplay {
 
   private _item:Array<Item> = [];
-  private _num:number = 3;
+  private _num:number = 8;
   private _b:number = -1;
 
   constructor(opt:any) {
